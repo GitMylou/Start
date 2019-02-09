@@ -2,5 +2,7 @@
  
 int main(int argc, char *argv[]){
    std::cout << "Hello World! new changes" << std::endl;
+
+std::string unusedstring;
    return 0;
 }
